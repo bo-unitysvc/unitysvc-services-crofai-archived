@@ -1,12 +1,12 @@
 {
   "parameters": {
-    "status": "deprecated",
     "api_base_url": "https://ai.nahcrof.com/v2",
     "api_key_secret": "CROFAI_API_KEY",
     "model": "qwen3.5-9b",
-    "payout_input": "0.04",
-    "payout_output": "0.15",
-    "service_name": "qwen3-5-9b/crofai/qwen3.5-9b"
+    "price_input": "0.04",
+    "price_output": "0.15",
+    "service_name": "qwen3-5-9b/crofai/qwen3.5-9b",
+    "status": "deprecated"
   },
   "template": "qwen3-5-9b"
 }

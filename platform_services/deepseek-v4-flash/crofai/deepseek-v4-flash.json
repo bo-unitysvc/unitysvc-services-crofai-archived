@@ -1,12 +1,12 @@
 {
   "parameters": {
-    "status": "deprecated",
     "api_base_url": "https://ai.nahcrof.com/v2",
     "api_key_secret": "CROFAI_API_KEY",
     "model": "deepseek-v4-flash",
-    "payout_input": "0.12",
-    "payout_output": "0.21",
-    "service_name": "deepseek-v4-flash/crofai/deepseek-v4-flash"
+    "price_input": "0.12",
+    "price_output": "0.21",
+    "service_name": "deepseek-v4-flash/crofai/deepseek-v4-flash",
+    "status": "deprecated"
   },
   "template": "deepseek-v4-flash"
 }
